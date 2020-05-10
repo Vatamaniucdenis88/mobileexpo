@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/mobileexpo/static/css/main.61a6f24b.chunk.css",
+    "main.js": "/mobileexpo/static/js/main.6a508590.chunk.js",
+    "main.js.map": "/mobileexpo/static/js/main.6a508590.chunk.js.map",
+    "runtime-main.js": "/mobileexpo/static/js/runtime-main.7828bd4a.js",
+    "runtime-main.js.map": "/mobileexpo/static/js/runtime-main.7828bd4a.js.map",
+    "static/js/2.f7907958.chunk.js": "/mobileexpo/static/js/2.f7907958.chunk.js",
+    "static/js/2.f7907958.chunk.js.map": "/mobileexpo/static/js/2.f7907958.chunk.js.map",
+    "index.html": "/mobileexpo/index.html",
+    "precache-manifest.06983b587f3d2180bb860a8b7fdefaa2.js": "/mobileexpo/precache-manifest.06983b587f3d2180bb860a8b7fdefaa2.js",
+    "service-worker.js": "/mobileexpo/service-worker.js",
+    "static/css/main.61a6f24b.chunk.css.map": "/mobileexpo/static/css/main.61a6f24b.chunk.css.map",
+    "static/js/2.f7907958.chunk.js.LICENSE.txt": "/mobileexpo/static/js/2.f7907958.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/mobileexpo/static/media/1.4dffe38f.jpg",
+    "static/media/10.jpg": "/mobileexpo/static/media/10.d26873cc.jpg",
+    "static/media/11.jpg": "/mobileexpo/static/media/11.d129b7f4.jpg",
+    "static/media/12.jpg": "/mobileexpo/static/media/12.8b505c12.jpg",
+    "static/media/2.jpg": "/mobileexpo/static/media/2.913f1c5b.jpg",
+    "static/media/3.jpg": "/mobileexpo/static/media/3.4c58007e.jpg",
+    "static/media/4.jpg": "/mobileexpo/static/media/4.b626ddc5.jpg",
+    "static/media/5.jpg": "/mobileexpo/static/media/5.1aedf05f.jpg",
+    "static/media/6.jpg": "/mobileexpo/static/media/6.28c71ee4.jpg",
+    "static/media/7.jpg": "/mobileexpo/static/media/7.5b7a29e4.jpg",
+    "static/media/8.jpg": "/mobileexpo/static/media/8.d199a39d.jpg",
+    "static/media/9.jpg": "/mobileexpo/static/media/9.2934eeef.jpg",
+    "static/media/coverandroid.jpg": "/mobileexpo/static/media/coverandroid.3c589073.jpg",
+    "static/media/coverapple.jpg": "/mobileexpo/static/media/coverapple.0531a4f8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7828bd4a.js",
+    "static/js/2.f7907958.chunk.js",
+    "static/css/main.61a6f24b.chunk.css",
+    "static/js/main.6a508590.chunk.js"
+  ]
+}
